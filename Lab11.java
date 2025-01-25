@@ -1,6 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 //Tiktaktoe
+//Two-player game 
 
 public class Lab11 {
     public static void main(String[] args) {
